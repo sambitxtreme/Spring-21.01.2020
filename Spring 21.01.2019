@@ -1,0 +1,22 @@
+*uSING HTTP CLIENT i am =calling get( url)
+*Angular forms
+*Template driven form
+2.reactive forms.
+
+
+*We were explicitly specifying ,bean manage tranction,SO WE NEED TO CAHANGE IT
+
+*JTA-->JAVA TRANSACTION API.
+
+*transaction-type-->tO SPECIFY CONTAINER MANAGE TRASACTION
+
+*There are 7  transactional Propogation Startregies and defalult one is mandatory.
+1.Mandatory
+2.Require
+3.Require New
+4.Supports
+5.Not Supported.
+6.Never
+7.Nested
+
+@ExceptionHandler--->IF ANY EXCEPTION HAPPENS,THE METHOD HAVING THIS ANNOTATION EXECUTES
